@@ -1,0 +1,7 @@
+{
+  "coc.preferences.formatOnSaveFiletypes": ["javascript", "typescript", "typescriptreact", "json", "javascriptreact", "typescript.tsx"],
+  "tslint.enable": true,
+  "tslint.autoFixOnSave": false,
+  "eslint.filetypes": ["javascript", "typescript", "css", "scss", "typescriptreact", "javascriptreact", "typescript.tsx"],
+  "prettier.singleQuote": true
+}

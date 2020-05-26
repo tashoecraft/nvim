@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =2
+let g:netrw_dirhist_2='/Users/tshoec/Development/jibe-apply-app/server/routes/api/login'
+let g:netrw_dirhist_1='/Users/tshoec/Development/jibe-apply-app/client/src/talentcommunity'
+let g:netrw_dirhist_0='/Users/tshoec/Development/jibe-apply-app'
+let g:netrw_dirhist_9='/Users/tshoec/Development/jibe-apply-app/server'
+let g:netrw_dirhist_8='/Users/tshoec/Development/jibe-apply-app/server/routes'
+let g:netrw_dirhist_7='/Users/tshoec/Development/jibe-apply-app/server/routes/pages'
+let g:netrw_dirhist_6='/Users/tshoec/Development/jibe-apply-app/server/routes/pages/apply'
+let g:netrw_dirhist_5='/Users/tshoec/Development/jjt/libs/create-profile'
+let g:netrw_dirhist_4='/Users/tshoec/Development/jjt/libs'
+let g:netrw_dirhist_3='/Users/tshoec/Development/jjt'
